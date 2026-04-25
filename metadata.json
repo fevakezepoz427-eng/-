@@ -1,0 +1,8 @@
+{
+  "name": "Gesture Control Hub",
+  "description": "基于 AI 视觉的手势控制中心，通过摄像头识别数字手势来触发不同的交互效果。",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
